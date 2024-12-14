@@ -1,11 +1,14 @@
 # Basic Movie Recommender System
 This new project which I worked on is a Basic Movie Recommendation System using Correlation-Based Collaborative Filtering.
 
-<h2><strong>Project Title:</strong> Movie Recommender System</h2>
+<br><br>
+
+<h1><strong>Project Title:</strong> Movie Recommender System</h1>
 
 <h2><strong>Project Description:</strong>
-A data-driven movie recommendation system that suggests similar movies based on user rating patterns. The system uses correlation analysis to find movies with similar user rating behaviors.<h2>
+A data-driven movie recommendation system that suggests similar movies based on user rating patterns. The system uses correlation analysis to find movies with similar user rating behaviors.</h2>
 
+<pre>
 <strong>Key Technical Components:</strong>
 1. <strong>Data Sources:</strong>
    - Ratings dataset (ratings.csv)
@@ -71,5 +74,6 @@ Top Correlated Movies to that movie (with more than 100 ratings):
 - Return of the Jedi (1983)
 - Empire Strikes Back, The (1980)
 ```
+</pre>
 
 <h3>The dataset used for this is given <a href="https://grouplens.org/datasets/movielens/latest/">here!</a></h3> 
