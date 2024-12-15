@@ -70,13 +70,13 @@ This new project which I worked on is a Basic Movie Recommendation System using 
 - Develop skills in Python data science libraries
 
 <strong>Sample Use Case:</strong>
-```
+<code>
 Enter a movie name (exactly as in the dataset): Star Wars: Episode IV - A New Hope (1977)
 Top Correlated Movies to that movie (with more than 100 ratings):
 - Raiders of the Lost Ark (1981)
 - Return of the Jedi (1983)
 - Empire Strikes Back, The (1980)
-```
+</code>
 </pre>
 
 <h3>The dataset used for this is given <a href="https://grouplens.org/datasets/movielens/latest/">here!</a></h3> 
