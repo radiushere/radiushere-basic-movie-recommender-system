@@ -6,7 +6,10 @@ This new project which I worked on is a Basic Movie Recommendation System using 
 <h1><strong>Project Title:</strong> Movie Recommender System</h1>
 
 <h2><strong>Project Description:</strong></h2>
-A data-driven movie recommendation system that suggests similar movies based on user rating patterns. The system uses correlation analysis to find movies with similar user rating behaviors.
+<p>A data-driven movie recommendation system that suggests similar movies based on user rating patterns. The system uses correlation analysis to find movies with similar user rating behaviors.</p>
+
+<br>
+<h2>Elaborated Description:</h2>
 
 <pre>
 <strong>Key Technical Components:</strong>
